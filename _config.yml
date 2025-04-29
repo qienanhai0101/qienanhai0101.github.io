@@ -1,18 +1,4 @@
-# 网站的基本配置
-title: "qienanhai"
-description: "works"
-author: "qienanhai"
-
-# 博客名字列表
-blogs:
-  - name: "技术分享"
-    url: "/tech"
-  - name: "生活随笔"
-    url: "/life"
-  - name: "项目展示"
-    url: "/projects"
-
-# 其他配置
-baseurl: "" # 如果部署在子目录下，设置子目录路径
-url: "https://你的域名.com" # 你的博客网址
-theme: "你的主题名称"
+title: qienanhai
+description: qienanhai's blog
+show_downloads: true
+theme: jekyll-theme-minimal
